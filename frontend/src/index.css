@@ -1,0 +1,19 @@
+.nav-bar{
+	background: rgba(0, 0, 0, 0.1);
+	padding: 12px;
+	display: flex;
+	justify-content: space-between;
+}
+.btn-smmin{
+	padding: 6px;
+	font-size: 12px;
+}
+.footer{
+		text-align: center;
+	color: #666;
+	padding: 12px;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+	background: white;
+}
