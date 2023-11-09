@@ -65,7 +65,7 @@ Visit `http://localhost:3000` or `http://localhost:5173/` in your browser to acc
 
 ## Educational Purpose
 
-This project is crafted by Black Devil (LS.C) for educational purposes. Feel free to explore, modify, and learn from the codebase. For questions or suggestions, please create an issue in the repository.
+This project is crafted by Black Devil (L.S.C) for educational purposes. Feel free to explore, modify, and learn from the codebase. For questions or suggestions, please create an issue in the repository.
 
 Licensed under MIT License.
 
