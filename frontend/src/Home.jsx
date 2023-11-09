@@ -57,7 +57,7 @@ export default function Home(){
 		       	auth ?
 		        <center className="text-success">Logged in as <b> {name}</b></center>
 		        :
-		        <center className="text-danger"> Not Authenticated </center>
+		        <center className="text-danger"> Not Authenticated ?</center>
 		    }
             </div>	
         </div>
